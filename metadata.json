@@ -1,0 +1,8 @@
+{
+  "name": "Vaultly - Secure Document Review & AI Summaries",
+  "description": "Bank-grade encrypted document platform with instant plain-English AI summaries, isolated per-user storage, and enterprise compliance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
